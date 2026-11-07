@@ -1,0 +1,11 @@
+desired:
+  name: Loopback66070123
+  ipv4: 198.51.100.23/32
+  description: IPA-66070123
+  admin_state: up
+
+current:
+  name: Loopback66070123
+  ipv4: 198.51.100.20/32
+  description: IPA-66070123
+  admin_state: up

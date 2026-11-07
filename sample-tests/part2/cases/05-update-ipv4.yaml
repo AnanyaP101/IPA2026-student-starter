@@ -1,0 +1,10 @@
+fixture: 05-update-ipv4.yaml
+
+expected:
+  status: ok
+  result: planned
+  operation: update
+  changes:
+    ipv4:
+      from: 198.51.100.20/32
+      to: 198.51.100.23/32
